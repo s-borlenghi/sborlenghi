@@ -8,7 +8,7 @@ I’m deeply passionate about software development, and I continuously invest ti
 
 ### 💡 Areas of Interest
 - Full-Stack Development  
-- Cybersecurity  
+- AI Developer  
 - Game Development  
 
 ### 🌐 Profiles
