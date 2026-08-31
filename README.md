@@ -1,15 +1,20 @@
 ## 👋 Hi, I'm Salvatore Borlenghi
 
-I’m a **Software Developer** focused on designing and building scalable, secure, and high-performance applications.
+I'm a **Senior Software Engineer** passionate about designing scalable, secure, and high-performance applications. My expertise spans AI/Deep Learning (PyTorch), Full Stack development, and Technical QA.
 
-My background also includes knowledge of **business administration, finance, and marketing**, which allows me to approach software development with a strong product and business-oriented mindset. This is particularly valuable when working on **e-commerce platforms** and **enterprise-level solutions**.
+With a background in business administration, finance, and marketing, I bring a product-oriented mindset to software development, particularly valuable for e-commerce platforms and enterprise-level solutions.
 
-I’m deeply passionate about software development, and I continuously invest time in improving my skills and staying up to date with modern technologies.
+I'm deeply committed to continuous learning and staying at the forefront of modern technologies.
 
 ### 💡 Areas of Interest
-- Full-Stack Development  
-- AI Developer  
-- Game Development  
+- AI & Deep Learning
+- Full-Stack Development
+- Cybersecurity & Protocol Analysis
+- Game Development
 
-### 🌐 Profiles
-- LinkedIn: https://www.linkedin.com/in/salvatore-borlenghi
+### 🔬 Featured Project
+**ODIN - HLS Stream Analyzer**: Python tool for analyzing streaming protocols and HTTP session management.  
+[GitHub Repository](https://github.com/s-borlenghi/odin)
+
+### 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/salvatore-borlenghi)
